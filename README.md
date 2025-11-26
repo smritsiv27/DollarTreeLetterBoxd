@@ -1,5 +1,5 @@
 # DollarTreeLetterBoxd
-Movie review interface on java.
+Movie review interface on Java.
 The main class is the DollarTreeLetterboxed file. 
 All classes should be compiled before running. All files marked GUI contain the visual element.
 Other files are purely functional.
@@ -23,3 +23,8 @@ Three main components:
   Submitted review updates both user and movie reviews on the spot.
   Once review is written, you cannot write another review (button is disabled).
   However, if you exit out of the movie panel and click on it again, you are allowed to write another review for the same movie.
+
+Instructions:
+Create a Java project with the files included in this repo.
+Compile files to get the class files.
+Run the program from main class to initiate.
